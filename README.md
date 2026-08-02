@@ -24,3 +24,34 @@ Plataforma de CRM de vendas - ActiveCampaign: https://www.activecampaign.com/br/
 Salesforce CRM gratuito: comece hoje mesmo | Salesforce BR: https://www.salesforce.com/br/crm/free-crm/
 monday.com CRM: https://monday.com/pt/crm
 
+Engenharia de Prompts e "Cicatrizes":
+Prompt: Você é um especialista em CRMs. O seu papel é encontrar o CRM ideal para um profissional autônomo ou empresário que tem muitas opções e não sabe qual escolher. Para que a pessoa não precise ficar testando inúmeros CRM, você consegue encontrar o melhor CRM para cada perfil. Seja específico e dê no máximo 3 opções de CRM em sua resposta. Encontre os três melhores CRMs para um profissional autônomo, que trabalha com 3 produtos diferentes e quer gerenciar três funis de venda. Além disso, esse profissional quer automatizar a prospecção via e-mail e whatsapp. Como ele ainda está escolhendo, veja as melhores opções gratuitas para esse profissional que quer prospectar 25 empresas por dia. Responda em formato de lista com um resumo de no máximo 2 linhas sobre o diferencial do CRM listado.
+
+Resposta: Como especialista em CRMs, selecionei as três melhores opções gratuitas para o seu perfil, focando na necessidade de gerenciar múltiplos produtos, automatizar a prospecção e manter a organização sem custos iniciais:
+Bitrix24: É a opção mais completa "tudo-em-um", oferecendo usuários e contatos ilimitados e ferramentas integradas para e-mail, WhatsApp e automação de funis de vendas
+. Seu diferencial é permitir que você gerencie não apenas as vendas, mas também as tarefas e projetos vinculados a cada um de seus 3 produtos em uma única interface
+
+HubSpot CRM: Ideal para quem precisa de escala, pois permite armazenar até 1 milhão de contatos e oferece ferramentas profissionais de rastreamento de e-mail (notificando quando o cliente abre a mensagem)
+. O diferencial é a facilidade de uso e o ecossistema robusto que permite centralizar toda a sua prospecção diária com uma interface intuitiva
+
+Zoho CRM: Uma solução altamente personalizável que permite criar campos específicos para seus 3 produtos e oferece até 5 regras de automação de fluxo de trabalho no plano gratuito
+. O grande diferencial é a capacidade de estruturar processos profissionais e a integração nativa com o ecossistema Zoho, garantindo uma transição organizada das planilhas para o CRM
+
+Miniguia de Estudo:
+Elementos Essenciais para um bom Prompt
+Intenção Inicial Clara
+Contexto Adequado
+Exemplos
+Dados de Entrada
+Formato de Saída
+
+Técnicas de Engenharia de Prompt
+Instruções Claras: Técnicas que organiza o prompt para que as orientações sejam objetivas, detalhadas e colocadas no início para maior clareza
+Guardrails: Técnicas para limitar respostas, evitando conteúdos prejudiciais, irrelevantes ou incorretos, alinhando o modelo a padrões éticos
+Preparar Saídas: Define palavras ou frases no final do prompt que ajudam a moldar o formato da resposta, tornando-a mais estruturada e clara
+Solicitações de Cadeia de Pensamento: Instrução para que o modelo responda passo a passo, explicando o raciocínio até chegar à conclusão
+Especificar Estrutura de Saída: Indica o formato exato da resposta, como Json ou listas, ajudando a obter resultados organizados e úteis
+Dividir a Tarefa: Quebra uma tarefa complexa em várias etapas menores, facilitando para o modelo responder de forma lógica e organizada
+Adicionar Sintaxe Clara: Organiza o prompt com formatações como listas, títulos ou tabelas, tornando as instruções mais visuais e compreensíveis
+Repetir Instruções no Final: Reforça as orientações no final do prompt para garantir que o modelo compreenda e siga a tarefa proposta sem desvios
+
